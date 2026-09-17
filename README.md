@@ -10,7 +10,7 @@ Exemplo prático de visualização e interação com documentos do Word no forma
 
 ## Links úteis
 - [Site oficial / onde baixar](https://www.tmssoftware.com/site/tmsfncwxpack.asp)
-- [Documentação](https://doc.tmssoftware.com/fnc/wxpack/docx/index.html)
+- [Documentação](https://doc.tmssoftware.com/fnc/wxpack/docxviewer/index.html)
 
 ## Vídeos de demonstração
 - Em breve
