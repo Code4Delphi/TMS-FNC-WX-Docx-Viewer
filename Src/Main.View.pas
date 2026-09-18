@@ -63,7 +63,6 @@ procedure TView.btnLoadFromFileClick(Sender: TObject);
 begin
   var LDialog := TOpenDialog.Create(nil);
   try
-    //LDialog.InitialDir := TTMSFNCUtils.GetDocumentsPath;
     LDialog.Filter := 'All files (*.*)|*.*';
     if LDialog.Execute then
       TMSFNCWXDocxViewer1.LoadFromFile(LDialog.FileName);

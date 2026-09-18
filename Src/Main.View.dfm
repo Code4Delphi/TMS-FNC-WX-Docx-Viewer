@@ -30,7 +30,6 @@ object View: TView
     EnableAcceleratorKeys = False
     LibraryLocation = llOffline
     RemoveMargins = True
-    ExplicitTop = 126
   end
   object Panel1: TPanel
     Left = 0
@@ -39,7 +38,6 @@ object View: TView
     Height = 89
     Align = alTop
     TabOrder = 1
-    ExplicitTop = -6
     object Label1: TLabel
       Left = 456
       Top = 8
@@ -124,7 +122,6 @@ object View: TView
     Height = 31
     Align = alTop
     TabOrder = 2
-    ExplicitTop = 85
     object lbActivePage: TLabel
       Left = 16
       Top = 6
