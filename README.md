@@ -13,7 +13,7 @@ Exemplo prático de visualização e interação com documentos do Word no forma
 - [Documentação](https://doc.tmssoftware.com/fnc/wxpack/docxviewer/index.html)
 
 ## Vídeos de demonstração
-- Em breve
+- [Visualize arquivos do Word diretamente no Delphi | TMS FNC WX Docx Viewer | #029](https://www.youtube.com/shorts/is_v6UuapUE)
 
 
 <br>
