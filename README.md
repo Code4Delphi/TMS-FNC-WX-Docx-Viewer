@@ -1,6 +1,6 @@
 # Visualizador de arquivos do Word .DOCX - TMS FNC WX Docx Viewer
 
-Exemplo prático de visualização e interação com documentos do Word no formato `.DOCX` utilizando Delph com o componente TMSFNCWXDocx.
+Exemplo prático de visualização e interação com documentos do Word no formato `.DOCX` utilizando Delph com o componente TMSFNCWXDocxViewer.
 
 ## 🏷️ Cupom de desconto
 - Use este cupom exclusivo e tenha 30% de desconto em qualquer produto da TMS:
@@ -16,7 +16,7 @@ Exemplo prático de visualização e interação com documentos do Word no forma
 - [Visualize arquivos do Word diretamente no Delphi | TMS FNC WX Docx Viewer | #029](https://www.youtube.com/shorts/is_v6UuapUE)
 
 ## Screenshot
-<img width="2035" height="980" alt="image" src="https://github.com/user-attachments/assets/a31a899c-7842-4de8-8bfa-c6ad6fcf0325" />
+<img width="1329" height="745" alt="image" src="https://github.com/user-attachments/assets/57a61c23-ca8a-4039-94a7-136d33328ccb" />
 
 
 <br>
